@@ -1,0 +1,11 @@
+C:\Users\YM\Desktop\mvcAracServisSatis\aracServisSatis\aracServisSatis.Entities\bin\Debug\net8.0\aracServisSatis.Entities.deps.json
+C:\Users\YM\Desktop\mvcAracServisSatis\aracServisSatis\aracServisSatis.Entities\bin\Debug\net8.0\aracServisSatis.Entities.dll
+C:\Users\YM\Desktop\mvcAracServisSatis\aracServisSatis\aracServisSatis.Entities\bin\Debug\net8.0\aracServisSatis.Entities.pdb
+C:\Users\YM\Desktop\mvcAracServisSatis\aracServisSatis\aracServisSatis.Entities\obj\Debug\net8.0\aracServisSatis.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YM\Desktop\mvcAracServisSatis\aracServisSatis\aracServisSatis.Entities\obj\Debug\net8.0\aracServisSatis.Entities.AssemblyInfoInputs.cache
+C:\Users\YM\Desktop\mvcAracServisSatis\aracServisSatis\aracServisSatis.Entities\obj\Debug\net8.0\aracServisSatis.Entities.AssemblyInfo.cs
+C:\Users\YM\Desktop\mvcAracServisSatis\aracServisSatis\aracServisSatis.Entities\obj\Debug\net8.0\aracServisSatis.Entities.csproj.CoreCompileInputs.cache
+C:\Users\YM\Desktop\mvcAracServisSatis\aracServisSatis\aracServisSatis.Entities\obj\Debug\net8.0\aracServisSatis.Entities.dll
+C:\Users\YM\Desktop\mvcAracServisSatis\aracServisSatis\aracServisSatis.Entities\obj\Debug\net8.0\refint\aracServisSatis.Entities.dll
+C:\Users\YM\Desktop\mvcAracServisSatis\aracServisSatis\aracServisSatis.Entities\obj\Debug\net8.0\aracServisSatis.Entities.pdb
+C:\Users\YM\Desktop\mvcAracServisSatis\aracServisSatis\aracServisSatis.Entities\obj\Debug\net8.0\ref\aracServisSatis.Entities.dll

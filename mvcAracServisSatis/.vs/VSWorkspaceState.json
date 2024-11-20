@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\aracServisSatis",
+    "\\aracServisSatis\\aracServisSatis.Data",
+    "\\aracServisSatis\\aracServisSatis.WebUI",
+    "\\aracServisSatis\\aracServisSatis.WebUI\\Areas",
+    "\\aracServisSatis\\aracServisSatis.WebUI\\Areas\\Admin",
+    "\\aracServisSatis\\aracServisSatis.WebUI\\Areas\\Admin\\Views",
+    "\\aracServisSatis\\aracServisSatis.WebUI\\Areas\\Admin\\Views\\Shared"
+  ],
+  "SelectedNode": "\\aracServisSatis\\aracServisSatis.WebUI\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+  "PreviewInSolutionExplorer": false
+}

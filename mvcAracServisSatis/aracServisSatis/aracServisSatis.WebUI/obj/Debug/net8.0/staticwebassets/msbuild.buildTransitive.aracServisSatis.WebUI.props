@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\aracServisSatis.WebUI.props" />
+</Project>

@@ -1,0 +1,41 @@
+﻿@model IEnumerable<aracServisSatis.Entities.Marka>
+
+@{
+    ViewData["Title"] = "Markalar";
+}
+
+
+<p>
+    <h1 class="mt-4 mb-3 text-center text-primary">Markalar</h1>
+
+</p>
+<p>
+    <a asp-action="Create">Yeni Ekle</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Adi)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Adi)
+            </td>
+            <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-outline-primary me-2">
+                        <i class="bi bi-pencil-square"></i> Düzenle
+                    </a>
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-outline-secondary">
+                        <i class="bi bi-trash"></i> Sil
+                    </a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

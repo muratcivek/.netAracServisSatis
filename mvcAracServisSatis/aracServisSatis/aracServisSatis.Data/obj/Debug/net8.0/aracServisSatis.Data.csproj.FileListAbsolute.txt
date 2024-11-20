@@ -1,0 +1,17 @@
+C:\Users\YM\Desktop\mvcAracServisSatis\aracServisSatis\aracServisSatis.Data\bin\Debug\net8.0\aracServisSatis.Data.deps.json
+C:\Users\YM\Desktop\mvcAracServisSatis\aracServisSatis\aracServisSatis.Data\bin\Debug\net8.0\aracServisSatis.Data.runtimeconfig.json
+C:\Users\YM\Desktop\mvcAracServisSatis\aracServisSatis\aracServisSatis.Data\bin\Debug\net8.0\aracServisSatis.Data.dll
+C:\Users\YM\Desktop\mvcAracServisSatis\aracServisSatis\aracServisSatis.Data\bin\Debug\net8.0\aracServisSatis.Data.pdb
+C:\Users\YM\Desktop\mvcAracServisSatis\aracServisSatis\aracServisSatis.Data\bin\Debug\net8.0\aracServisSatis.Entities.dll
+C:\Users\YM\Desktop\mvcAracServisSatis\aracServisSatis\aracServisSatis.Data\bin\Debug\net8.0\aracServisSatis.Entities.pdb
+C:\Users\YM\Desktop\mvcAracServisSatis\aracServisSatis\aracServisSatis.Data\obj\Debug\net8.0\aracServisSatis.Data.csproj.AssemblyReference.cache
+C:\Users\YM\Desktop\mvcAracServisSatis\aracServisSatis\aracServisSatis.Data\obj\Debug\net8.0\aracServisSatis.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YM\Desktop\mvcAracServisSatis\aracServisSatis\aracServisSatis.Data\obj\Debug\net8.0\aracServisSatis.Data.AssemblyInfoInputs.cache
+C:\Users\YM\Desktop\mvcAracServisSatis\aracServisSatis\aracServisSatis.Data\obj\Debug\net8.0\aracServisSatis.Data.AssemblyInfo.cs
+C:\Users\YM\Desktop\mvcAracServisSatis\aracServisSatis\aracServisSatis.Data\obj\Debug\net8.0\aracServisSatis.Data.csproj.CoreCompileInputs.cache
+C:\Users\YM\Desktop\mvcAracServisSatis\aracServisSatis\aracServisSatis.Data\obj\Debug\net8.0\aracServ.4B1251D9.Up2Date
+C:\Users\YM\Desktop\mvcAracServisSatis\aracServisSatis\aracServisSatis.Data\obj\Debug\net8.0\aracServisSatis.Data.dll
+C:\Users\YM\Desktop\mvcAracServisSatis\aracServisSatis\aracServisSatis.Data\obj\Debug\net8.0\refint\aracServisSatis.Data.dll
+C:\Users\YM\Desktop\mvcAracServisSatis\aracServisSatis\aracServisSatis.Data\obj\Debug\net8.0\aracServisSatis.Data.pdb
+C:\Users\YM\Desktop\mvcAracServisSatis\aracServisSatis\aracServisSatis.Data\obj\Debug\net8.0\aracServisSatis.Data.genruntimeconfig.cache
+C:\Users\YM\Desktop\mvcAracServisSatis\aracServisSatis\aracServisSatis.Data\obj\Debug\net8.0\ref\aracServisSatis.Data.dll

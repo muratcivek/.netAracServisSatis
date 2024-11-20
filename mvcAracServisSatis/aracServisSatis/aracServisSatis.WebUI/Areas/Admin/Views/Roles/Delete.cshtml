@@ -1,0 +1,26 @@
+﻿@model OtoServisSatis.Entities.Rol
+
+@{
+    ViewData["Title"] = "Rol Sil";
+}
+
+
+
+<h3 class="mt-4 mb-3 text-center text-primary">Seçilen rolü silmek üzeresiniz, emin misiniz?</h3>
+<div>
+    
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Adi)
+        </dt>
+        <dd class = "col-sm-5">
+            @Html.DisplayFor(model => model.Adi)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Sil" class="btn btn-danger" />
+    </form>
+</div>
