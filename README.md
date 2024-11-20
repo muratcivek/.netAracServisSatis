@@ -31,4 +31,16 @@ Bu proje, oto servis ve satış süreçlerini verimli bir şekilde yönetmek iç
 - **Performans Optimizasyonu**: Veri tabanı sorgularını optimize ederek hızlı ve etkili bir kullanıcı deneyimi sağlandı.
 - **Responsive Tasarım**: Farklı cihazlarda sorunsuz çalışabilen bir tasarım için Bootstrap kullanıldı.
 
-## 📂 Proje Yapısı
+![Uygulama Görseli ](https://github.com/muratcivek/.netAracServisSatis/blob/main/EkranGoruntuleri/1.png)  
+![Uygulama Görseli ](https://github.com/muratcivek/.netAracServisSatis/blob/main/EkranGoruntuleri/2.png)  
+![Uygulama Görseli ](https://github.com/muratcivek/.netAracServisSatis/blob/main/EkranGoruntuleri/3.png)  
+![Uygulama Görseli ](https://github.com/muratcivek/.netAracServisSatis/blob/main/EkranGoruntuleri/4.png)  
+![Uygulama Görseli ](https://github.com/muratcivek/.netAracServisSatis/blob/main/EkranGoruntuleri/5.png)  
+![Uygulama Görseli ](https://github.com/muratcivek/.netAracServisSatis/blob/main/EkranGoruntuleri/6.png)  
+![Uygulama Görseli ](https://github.com/muratcivek/.netAracServisSatis/blob/main/EkranGoruntuleri/7.png)  
+![Uygulama Görseli ](https://github.com/muratcivek/.netAracServisSatis/blob/main/EkranGoruntuleri/8.png)  
+![Uygulama Görseli ](https://github.com/muratcivek/.netAracServisSatis/blob/main/EkranGoruntuleri/9.png)  
+![Uygulama Görseli ](https://github.com/muratcivek/.netAracServisSatis/blob/main/EkranGoruntuleri/10.png)  
+![Uygulama Görseli ](https://github.com/muratcivek/.netAracServisSatis/blob/main/EkranGoruntuleri/11.png)  
+
+
