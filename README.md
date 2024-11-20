@@ -14,6 +14,7 @@ Bu proje, oto servis ve satış süreçlerini verimli bir şekilde yönetmek iç
   - **Sunum Katmanı** (Presentation Layer)
 - **Entity Framework Core** ile ORM ve veri yönetimi
 - **Repository Pattern** ile veri erişim yönetimi
+- **Kimlik Doğrulama ve Yetkilendirme** admin paneli ve kullanıcı yönetimi için.
 
 ### Frontend
 - **HTML5**, **CSS3**, **JavaScript** ile kullanıcı dostu arayüzler
